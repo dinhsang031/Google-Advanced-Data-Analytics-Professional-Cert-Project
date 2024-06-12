@@ -1,8 +1,6 @@
 # Google-Advanced-Data-Analytics-Professional-Cert-Project
 This repository contains the projects completed as part of the Google Advanced Data Analytics Professional Certificate program. The program focuses on developing skills in data analysis, data visualization, and machine learning using Google Cloud Platform (GCP) tools and services.
-The Google Advanced Data Analytics Professional Certificate program is a comprehensive learning path that covers a range of topics related to data analysis and machine learning. The program consists of the 8 courses and capstone projects
-
-This repository contains the projects completed as part of the Google Advanced Data Analytics Professional Certificate program. Each project, three which span the whole set of seven courses, focuses on applying the knowledge gained from the corresponding course and showcases practical skills in data analysis, data transformation, data visualization, and machine learning:
+The Google Advanced Data Analytics Professional Certificate program is a comprehensive learning path that covers a range of topics related to data analysis and machine learning. The program consists of the 8 courses and 6 capstone projects:
 
 **TIKTOK PROJECT DESCRIPTION**
 
